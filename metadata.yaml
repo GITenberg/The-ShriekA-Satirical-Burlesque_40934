@@ -1,0 +1,26 @@
+_repo: The-ShriekA-Satirical-Burlesque_40934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Somerville, Charles
+    deathdate: 1931
+    gutenberg_agent_id: '40908'
+    url: http://www.gutenberg.org/2009/agents/40908
+description: ''
+gutenberg_issued: '2012-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcc 'PS'
+- !lcsh 'Hull, E. M. (Edith Maude). Sheik -- Parodies, imitations, etc.'
+title: 'The Shriek: A Satirical Burlesque'
+url: http://www.gutenberg.org/ebooks/40934
